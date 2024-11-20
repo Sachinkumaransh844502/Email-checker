@@ -1,4 +1,4 @@
-# Email-checker
+# Email-Checker.
 
 https://haveibeenpwned.com/
 
